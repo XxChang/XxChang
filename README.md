@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chang Xu
-### A Programmer 👨‍💻, my interests currently lie in Computer Vision, Embedded Software & Robotics.
+### A Programmer 👨‍💻, my interests currently lie in Perception Tech, Embedded Software & Robotics.
 
 <!--
 **XxChang/XxChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
