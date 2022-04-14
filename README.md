@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Chang Xu
 ### A Programmer 👨‍💻, my interests currently lie in Perception Tech, Embedded Software & Robotics.
-+ More About Me: [Chang's Blog](https://xxchang.github.io/)
-+ How to Reach Me: xuxchang@hotmail.com
++ 🌱 I'm currently learning CPS Security in Rust
++ 💬 Ask me about Embedded Software
++ ♊ More About Me: [Chang's Blog](https://xxchang.github.io/)
++ 📫 How to Reach Me: xuxchang@hotmail.com
+
 <!--
 **XxChang/XxChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
