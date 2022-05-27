@@ -7,6 +7,7 @@
 + 🛠️ Interests, Skills and Tools:<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded" alt="Embedded" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/17707713?s=200&v=4" title="Embedded-Rust" alt="Embedded-Rust" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
