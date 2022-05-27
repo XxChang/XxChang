@@ -28,6 +28,7 @@
   <img src="ros2.svg" title="ros2" alt="ros2" width="40" height="40"/>&nbsp
   <img src="micro_ros.svg" title="micro-ROS" alt="micro-ROS" width="40" height="40"/>&nbsp
   <img src="platformio_log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
+  <img src="https://www.khronos.org/assets/images/api_logos/opencl.svg" title="OpenCL" alt="OpenCL" width="40" height="40"/>&nbsp
 </div>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact) -->
