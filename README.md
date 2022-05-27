@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
-  <img src="https://www.zephyrproject.org/wp-content/uploads/sites/38/2021/11/zephyr_logo_r_color_negative_big.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
+  <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
 </div>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact) -->
