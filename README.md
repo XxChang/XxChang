@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="https://www.yoctoproject.org/wp-content/uploads/2020/05/YoctoProject_Logo_RGB_White_small.svg" title="yocto" alt="yocto" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/69922175?s=200&v=4" title="yocto" alt="yocto" width="40" height="40"/>&nbsp
   <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
   <img src="platformio_log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
 </div>
