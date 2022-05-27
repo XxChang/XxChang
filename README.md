@@ -25,6 +25,7 @@
   <img src="https://avatars.githubusercontent.com/u/69922175?s=200&v=4" title="yocto" alt="yocto" width="40" height="40"/>&nbsp
   <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
   <img src="ros.svg" title="ros" alt="ros" width="40" height="40"/>&nbsp
+  <img src="ros2.svg" title="ros2" alt="ros2" width="40" height="40"/>&nbsp
   <img src="platformio_log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
 </div>
 
