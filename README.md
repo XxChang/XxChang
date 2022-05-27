@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
+  <img src="platformio-log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
 </div>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact) -->
