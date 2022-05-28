@@ -15,6 +15,11 @@
   <img src="https://avatars.githubusercontent.com/u/17707713?s=200&v=4" title="Embedded-Rust" alt="Embedded-Rust" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
+  <img src="ros.svg" title="ros" alt="ros" width="40" height="40"/>&nbsp
+  <img src="ros2.svg" title="ros2" alt="ros2" width="40" height="40"/>&nbsp
+  <img src="micro_ros.svg" title="micro-ROS" alt="micro-ROS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp
@@ -22,13 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/69922175?s=200&v=4" title="yocto" alt="yocto" width="40" height="40"/>&nbsp
-  <img src="zephyr_log.svg" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp
-  <img src="ros.svg" title="ros" alt="ros" width="40" height="40"/>&nbsp
-  <img src="ros2.svg" title="ros2" alt="ros2" width="40" height="40"/>&nbsp
-  <img src="micro_ros.svg" title="micro-ROS" alt="micro-ROS" width="40" height="40"/>&nbsp
   <img src="platformio_log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
   <img src="https://www.khronos.org/assets/images/api_logos/opencl.svg" title="OpenCL" alt="OpenCL" width="40" height="40"/>&nbsp
   <img src="renode.svg" title="renode" alt="renode" width="40" height="40"/>&nbsp
