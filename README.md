@@ -26,7 +26,6 @@
   <img src="https://sourceware.org/gdb/images/archer.svg" title="gdb" alt="gdb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/69922175?s=200&v=4" title="yocto" alt="yocto" width="40" height="40"/>&nbsp
   <img src="platformio_log.svg" title="platformio" alt="platformio" width="40" height="40"/>&nbsp
