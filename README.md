@@ -34,7 +34,7 @@
   <img src="renode.svg" title="renode" alt="renode" width="40" height="40"/>&nbsp
 </div>
 
-[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact)
 
 <!--
 **XxChang/XxChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
