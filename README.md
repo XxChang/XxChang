@@ -33,7 +33,7 @@
   <img src="renode.svg" title="renode" alt="renode" width="40" height="40"/>&nbsp
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&theme=dark&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxChang&exclude_repo=XxChang.github.io&theme=dark&layout=compact"/>
 
 <!--
 **XxChang/XxChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
