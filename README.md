@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chang Xu
 ### A Programmer 👨‍💻, my interests currently lie in Perception Tech, Embedded Software & Robotics.
-+ 🌱 I'm currently learning CPS Security in Rust
++ 🌱 I'm currently writing [Bluekernel](https://github.com/vivoblueos/kernel) in Rust
 + 💬 Ask me about Embedded Software
 + ♊ More About Me: [Chang's Blog](https://xxchang.github.io/)
 + 📫 How to Reach Me: xuxchang@hotmail.com
